@@ -1,0 +1,24 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=170
+package.editor.y=170
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.editor.height=520
+readme.editor.width=618
+readme.editor.x=0
+readme.editor.y=0
+target1.editor.height=520
+target1.editor.width=618
+target1.editor.x=0
+target1.editor.y=0
+target1.height=50
+target1.name=BobBot
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=60
+target1.y=10

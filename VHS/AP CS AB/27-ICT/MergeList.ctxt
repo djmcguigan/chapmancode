@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=MergeList(String)
+comment0.text=\nOpen\ a\ file\ containing\ id/inventory\ pairs\ of\ data\n\n@param\ \ fileName\ \ File\ to\ be\ opened\n\n
+comment1.params=list
+comment1.target=void\ readData(LinkedList<Item>)
+comment1.text=\nReads\ a\ file\ containing\ id/inv\ data\ pairs.\ The\ first\ line\ of\ the\nfile\ contains\ the\ number\ of\ id/inventory\ integer\ pairs\ listed\ on\nsubsequent\ lines.\n\n@param\ \ list\ \ Reference\ to\ LinkedList\ to\ which\ data\ will\ be\ added\n\n
+comment2.params=list
+comment2.target=void\ printList(LinkedList<Item>)
+comment2.text=\nPrints\ contents\ of\ list\n\n@param\ \ list\ \ linked\ list\ to\ be\ printed\n\n
+comment3.params=listA\ listB
+comment3.target=void\ split(LinkedList<Item>,\ LinkedList<Item>)
+comment3.text=\nSplits\ listA\ into\ two\ parts.\ listA\ retains\ the\ first\nhalf\ of\ the\ list,\ listB\ contains\ the\ last\ half\ of\nthe\ original\ list.\n\n@param\ \ listA\ \ \ \ Original\ list.\ reduced\ by\ half\ after\ split.\n@param\ \ listB\ \ \ \ Contains\ last\ half\ of\ the\ original\ list\n\n
+comment4.params=listA\ listB
+comment4.target=LinkedList\ merge(LinkedList<Item>,\ LinkedList<Item>)
+comment4.text=\nTwo\ linked\ lists\ listA\ and\ listB\ are\ merged\ into\ a\ single\nlinked\ list\ mergedList.\ They\ are\ placed\ in\ mergedList\ starting\nwith\ the\ smallest\ item\ on\ either\ list\ and\ continue\ working\ up\ to\nto\ largest\ item.\n\n@param\ \ listA\ \ \ LinkedList\ in\ nondecreasing\ order\n@param\ \ listB\ \ \ LinkedList\ in\ nondecreasing\ order\n@return\ \ \ \ \ \ \ \ \ List\ \ containing\ all\ the\ values\ from\ lists\ listA\nand\ listB,\ in\ nondecreasing\ order\n\n
+comment5.params=listA
+comment5.target=LinkedList\ mergeSort(LinkedList<Item>)
+comment5.text=\nThe\ linked\ list\ is\ returned\ in\ sorted\ order.\nSorted\ order\ has\ the\ smallest\ item\ first\ and\ the\ largest\ item\nlast.\ The\ ordering\ is\ determined\ by\ the\ order\ defined\ in\ the\nComparable\ class.\ The\ method\ uses\ the\ merge\ sort\ technique\ and\nmust\ be\ recursive.\n\n@param\ \ listA\ \ LinkedList\ to\ be\ sorted\n@return\ \ \ \ \ \ \ \ LinkedList\ in\ sorted\ (nondecreasing)\ order\n\n
+comment6.params=list
+comment6.target=LinkedList\ reverseList(LinkedList<Item>)
+comment6.text=\nReverses\ the\ order\ of\ a\ list\n\n@param\ \ list\ \ LinkedList\ to\ be\ reversed\n@return\ \ \ \ \ \ \ List\ in\ reverse\ order\n\n
+comment7.params=args
+comment7.target=void\ main(String[])
+numComments=8

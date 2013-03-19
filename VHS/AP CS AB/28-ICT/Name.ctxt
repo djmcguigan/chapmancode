@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Name()
+comment1.params=last\ first
+comment1.target=Name(String,\ String)
+comment2.target=String\ last()
+comment3.target=String\ first()
+comment4.params=other
+comment4.target=int\ compareTo(Object)
+comment4.text=\nCompares\ two\ Name\ objects\ by\ their\ Id\ fields\n\n@param\ \ other\ \ Name\ object\ to\ compare\ to\n@return\ \ \ \ \ \ \ \ positive\ int\ if\nlastName\ +\ firstName\ >\ other.lastName\ +\ other.firstName\n0\ if\nlastName\ +\ firstName\ \=\=\ other.lastName\ +\ other.firstName\nnegative\ int\ if\nlastName\ +\ firstName\ >\ other.lastName\ +\ other.firstName\n\n
+comment5.params=otherObject
+comment5.target=boolean\ equals(Object)
+comment5.text=\nCompares\ the\ Name\ to\ the\ specified\ object\n\n@param\ \ otherObject\ \ Name\ object\ to\ compare\ to\n@return\ \ \ \ \ \ \ \ \ \ \ \ \ \ true\ if\ equal,\ false\ otherwise\n\n
+comment6.target=String\ toString()
+numComments=7

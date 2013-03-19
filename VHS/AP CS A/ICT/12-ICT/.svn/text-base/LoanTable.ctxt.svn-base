@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LoanTable()
+comment1.params=principle\ time\ low\ high
+comment1.target=LoanTable(double,\ int,\ double,\ double)
+comment2.target=void\ input()
+comment3.target=double\ monthlyRate()
+comment4.target=void\ output()
+numComments=5

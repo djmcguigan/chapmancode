@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=int\ fib(int)
+comment1.params=num1\ num2
+comment1.target=int\ mult(int,\ int)
+numComments=2

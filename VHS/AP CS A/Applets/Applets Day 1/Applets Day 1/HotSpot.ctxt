@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=hsl
+comment0.target=HotSpot(HotSpotListener)
+comment1.params=mesg1\ hsl
+comment1.target=HotSpot(String,\ HotSpotListener)
+comment2.params=img\ state
+comment2.target=void\ setImage(Image,\ int)
+comment3.params=g2
+comment3.target=void\ paint(Graphics)
+comment4.params=g3
+comment4.target=void\ update(Graphics)
+comment5.params=me
+comment5.target=void\ mouseClicked(MouseEvent)
+comment6.params=me
+comment6.target=void\ mouseReleased(MouseEvent)
+comment7.params=me
+comment7.target=void\ mousePressed(MouseEvent)
+comment8.params=me
+comment8.target=void\ mouseEntered(MouseEvent)
+comment9.params=me
+comment9.target=void\ mouseExited(MouseEvent)
+numComments=10

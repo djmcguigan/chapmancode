@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=EMDirectory()
+comment0.text=\nConstructs\ an\ empty\ email\ directory\ map.\n\n
+comment1.params=dirFile
+comment1.target=EMDirectory(String)
+comment1.text=\nConstructs\ an\ email\ directory\ map\ by\ reading\ name\ and\ email\ninformation\ from\ the\ indicated\ file\ name\ and\ adding\ them\ to\ the\nemail\ directory\ map.\ The\ name\ information\ serves\ as\ the\ key\ for\nthe\ email\ address\ items\n\n@param\ dirFile\ -\ file\ name\ containing\ names\ and\ email\ addresses\n\n
+comment2.params=name\ emailAddr
+comment2.target=void\ addEntry(Name,\ String)
+comment2.text=\nYour\ description\ here\n\n@param\ name\ \ Your\ description\ here\n@param\ emailAddr\ \ Your\ description\ here\n\n
+comment3.params=name
+comment3.target=String\ lookup(Name)
+comment3.text=\nYour\ description\ here\n\n@param\ name\ \ Your\ description\ here\n@returns\ \ Your\ description\ here\n\n
+comment4.params=lastName
+comment4.target=Set\ lookupLastName(String)
+comment4.text=\n\n\n@param\ lastName\ \ Your\ description\ here\n@returns\ \ all\ emails\ addresses\ associated\ with\ lastName\n\n
+comment5.target=void\ listAll()
+comment5.text=\nYour\ description\ here\n\n
+numComments=6

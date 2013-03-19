@@ -1,0 +1,18 @@
+    public void inOrder(){
+        Stack <TreeNode> pillar = new Stack <TreeNode>();
+        TreeNode temp = myRoot;
+        
+        do{
+            while(temp != null){
+                pillar.push(temp);
+                temp = temp.getLeft();
+            }
+            if(!pillar.empty()){
+                temp = pillar.pop();
+                System.out.println(temp.getValue());
+                temp = temp.getRight();
+            }
+        }while(temp != null || !pillar.empty());
+    }
+    
+    

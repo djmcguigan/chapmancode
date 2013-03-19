@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=me
+comment2.target=void\ mouseClicked(MouseEvent)
+comment2.text=These\ methods\ always\ have\ to\ present\ when\ you\ implement\ MouseListener\npublic\ void\ mouseClicked\ (MouseEvent\ me)\ {}\npublic\ void\ mouseEntered\ (MouseEvent\ me)\ {}\npublic\ void\ mousePressed\ (MouseEvent\ me)\ {}\npublic\ void\ mouseReleased\ (MouseEvent\ me)\ {}\t\npublic\ void\ mouseExited\ (MouseEvent\ me)\ {}\t\n
+comment3.params=me
+comment3.target=void\ mousePressed(MouseEvent)
+comment4.params=me
+comment4.target=void\ mouseReleased(MouseEvent)
+comment5.params=me
+comment5.target=void\ mouseEntered(MouseEvent)
+comment6.params=me
+comment6.target=void\ mouseExited(MouseEvent)
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name\ age\ gender\ idNum\ gpa\ year\ major
+comment0.target=CollegeStudent(String,\ int,\ String,\ String,\ double,\ int,\ String)
+comment1.target=String\ getMajor()
+comment2.target=int\ getYear()
+comment3.params=major
+comment3.target=void\ setMajor(String)
+comment4.params=year
+comment4.target=void\ setYear(int)
+comment5.target=String\ toString()
+numComments=6

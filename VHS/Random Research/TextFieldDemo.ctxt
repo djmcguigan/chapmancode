@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextFieldDemo()
+comment1.target=void\ initComponents()
+comment1.text=This\ method\ is\ called\ from\ within\ the\ constructor\ to\ninitialize\ the\ form.\n\n
+comment2.target=void\ search()
+comment3.params=msg
+comment3.target=void\ message(String)
+comment4.params=ev
+comment4.target=void\ insertUpdate(DocumentEvent)
+comment5.params=ev
+comment5.target=void\ removeUpdate(DocumentEvent)
+comment6.params=ev
+comment6.target=void\ changedUpdate(DocumentEvent)
+comment7.params=args
+comment7.target=void\ main([)
+numComments=8

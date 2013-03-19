@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ListDemo()
+comment1.target=void\ createList()
+comment1.text=\nCreates\ a\ SinglyLinkedList\ of\ 5\ Integer\ nodes\n\n
+comment2.target=void\ displayFirst()
+comment2.text=\nDisplay\ the\ first\ element\ of\ the\ list\n\n
+comment3.target=void\ displayLast()
+comment4.target=void\ print()
+comment4.text=\nPrint\ the\ contents\ of\ myList\n\n
+numComments=5

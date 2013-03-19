@@ -1,0 +1,6 @@
+private boolean isAncestor(TreeNode root, Comparable a, Comparable d){
+    if (findPtr(findPtr(root, a), d) != null)
+      return true;
+    else
+      return false;
+  }

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=evt
+comment2.target=void\ mouseMoved(MouseEvent)
+comment2.text=public\ void\ update(Graphics\ g)\n{\npaint(g);\n}\n\n
+comment3.params=evt
+comment3.target=void\ mouseDragged(MouseEvent)
+numComments=4

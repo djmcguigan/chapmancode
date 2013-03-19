@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=initValue\ initNext\ initPrevious
+comment0.target=DListNode(Object,\ DListNode,\ DListNode)
+comment1.target=Object\ getValue()
+comment2.target=DListNode\ getNext()
+comment3.target=DListNode\ getPrevious()
+comment4.params=theNewValue
+comment4.target=void\ setValue(Object)
+comment5.params=theNewNext
+comment5.target=void\ setNext(DListNode)
+comment6.params=theNewPrevious
+comment6.target=void\ setPrevious(DListNode)
+numComments=7

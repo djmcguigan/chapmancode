@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BoardGame()
+comment1.params=pattern
+comment1.target=Position\ patternPos(int[])
+comment2.params=A
+comment2.target=int[]\ rotate(int[])
+comment3.params=pattern
+comment3.target=Position\ rotatedPatternPos(int[])
+comment4.target=void\ display()
+comment5.target=void\ displayRotate()
+numComments=6

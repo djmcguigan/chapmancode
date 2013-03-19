@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SortStep()
+comment0.text=\nConstructor\ for\ the\ SortStep\ object\n\n
+comment1.target=void\ sortMenu()
+comment1.text=\nAsks\ the\ user\ to\ select\ a\ sorting\ algorithm,\ fills\ the\ array\nwith\ an\ amount\ of\ random\ integer\ data\ chosen\ by\ the\ user,\ calls\nthe\ sorting\ algorithm,\ and\ gives\ an\ option\ of\ printing\ out\ the\ndata\ after\ it\ has\ been\ sorted.\n\n
+comment2.target=void\ fillArrayWithInts()
+comment2.text=\nInitializes\ myArray\ with\ random\ integers\ in\ the\ range\n1..largestInt\n\n@param\ \ numInts\ \ \ \ \ number\ of\ integers\ to\ generate\ (size\ of\nmyArray)\n@param\ \ largestInt\ \ largest\ possible\ random\ integer\ to\ create\n\n
+comment3.target=void\ fillArrayWithStrings()
+comment3.text=\nInitializes\ myArray\ with\ a\ few\ hard-coded\ Strings\n\n@param\ \ numInts\ \ \ \ \ number\ of\ integers\ to\ generate\ (size\ of\nmyArray)\n@param\ \ largestInt\ \ largest\ possible\ random\ integer\ to\ create\n\n
+comment4.target=void\ resetArray()
+comment4.text=\nreset\ the\ array\ for\ the\ next\ sort\n\n
+comment5.target=void\ screenOutput()
+comment5.text=\nprints\ out\ the\ contents\ of\ the\ array\ in\ tabular\ form,\ 12\ columns\n\n
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=lb
+comment0.target=RealMedia(Loadable)
+comment1.params=file
+comment1.target=void\ add(String)
+comment10.target=boolean\ isLoaded()
+comment11.params=file
+comment11.target=Object\ getMedia(String)
+comment12.target=void\ loadNext()
+comment13.target=void\ run()
+comment14.params=file
+comment14.target=boolean\ isAudio(String)
+comment2.params=file\ name
+comment2.target=void\ add(String,\ String)
+comment3.params=name
+comment3.target=Image\ get(String)
+comment4.params=name
+comment4.target=void\ play(String)
+comment5.target=int\ getCurrent()
+comment6.target=int\ getPercent()
+comment7.target=int\ getTotalFiles()
+comment8.target=void\ load()
+comment9.params=delay
+comment9.target=void\ setDelay(int)
+numComments=15

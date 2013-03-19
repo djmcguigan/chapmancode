@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=me
+comment2.target=void\ mouseMoved(MouseEvent)
+comment2.text=If\ you\ use\ MouseMotionListener\ then\ these\ methods\ have\ to\ be\ here\npublic\ void\ mouseMoved(MouseEvent\ me);\npublic\ void\ mouseDragged(MouseEvent\ me);\n
+comment3.params=me
+comment3.target=void\ mouseDragged(MouseEvent)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=e
+comment1.target=void\ mouseEntered(MouseEvent)
+comment2.params=e
+comment2.target=void\ mouseExited(MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseClicked(MouseEvent)
+comment4.params=e
+comment4.target=void\ mousePressed(MouseEvent)
+comment5.params=e
+comment5.target=void\ mouseReleased(MouseEvent)
+comment6.params=e
+comment6.target=void\ mouseMoved(MouseEvent)
+comment7.params=e
+comment7.target=void\ mouseDragged(MouseEvent)
+comment8.params=g
+comment8.target=void\ paint(Graphics)
+numComments=9

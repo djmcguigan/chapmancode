@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IRS()
+comment1.params=filingStatus\ income
+comment1.target=IRS(int,\ double)
+comment2.target=void\ findStatus()
+comment3.target=double\ single()
+comment4.target=double\ married()
+comment5.target=void\ output()
+numComments=6

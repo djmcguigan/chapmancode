@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=st\ ave\ dir\ beeps
+comment0.target=PinSetter(int,\ int,\ Direction,\ int)
+comment1.target=void\ setPins()
+comment2.target=void\ setRow2()
+comment3.target=void\ setRow3()
+comment4.target=void\ setRow4()
+comment5.target=void\ goHome()
+numComments=6

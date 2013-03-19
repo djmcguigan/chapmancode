@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=col\ row
+comment0.target=void\ timesTables(int,\ int)
+comment1.params=num
+comment1.target=void\ pyramid(int)
+numComments=2

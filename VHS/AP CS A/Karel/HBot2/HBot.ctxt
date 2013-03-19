@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=st\ ave\ dir\ beeps
+comment0.target=HBot(int,\ int,\ Direction,\ int)
+comment1.target=void\ drawH()
+numComments=2

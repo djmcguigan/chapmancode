@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=QuestionWriter()
+comment0.text=\nconstructor\ for\ question\ writer\ objects\n\n
+comment1.target=String\ getSetName()
+numComments=2

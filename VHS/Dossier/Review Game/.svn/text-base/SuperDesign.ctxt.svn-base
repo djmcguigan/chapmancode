@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=gameTopic\ fileName
+comment0.target=SuperDesign(String,\ String)
+comment1.params=num
+comment1.target=boolean\ contains(Integer)
+comment2.params=newScore
+comment2.target=void\ updateScore(int)
+comment3.target=boolean\ gameOver()
+comment4.params=args
+comment4.target=void\ main(String[])
+numComments=5

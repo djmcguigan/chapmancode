@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=question\ answer\ pointValue\ currentScore
+comment0.target=QuestionBox(String,\ String,\ int,\ int)
+comment1.params=input\ correct
+comment1.target=boolean\ checkAnswer(String,\ String)
+comment1.text=\nchecks\ answer\n\n@param\ input\ the\ user's\ answer\n@param\ correct\ the\ correct\ answer\n@return\ true\ answer\ is\ correct\n@return\ false\ answer\ is\ wrong\n\n
+comment2.target=boolean\ isCorrect()
+comment2.text=\nchecks\ to\ see\ if\ answer\ is\ correct\n\n@param\n@return\ true\ answer\ is\ correct\n@return\ false\ answer\ is\ incorrect\n\n
+comment3.target=boolean\ isAnswered()
+comment3.text=\nchecks\ to\ see\ if\ the\ question\ has\ been\ answered\n\n@param\n@return\ true\ question\ answered\n@return\ false\ question\ not\ answered\n\n
+numComments=4

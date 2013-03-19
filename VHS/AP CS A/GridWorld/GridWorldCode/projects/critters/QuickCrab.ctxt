@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=ArrayList<Location>\ getMoveLocations()
+comment0.text=\n@return\ list\ of\ empty\ locations\ immediately\ to\ the\ right\ and\ to\ the\ left\n\n
+numComments=1

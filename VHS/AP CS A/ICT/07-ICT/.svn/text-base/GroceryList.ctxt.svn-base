@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GroceryList()
+comment1.params=item1\ item2\ item3\ item4\ item5
+comment1.target=GroceryList(double,\ double,\ double,\ double,\ double)
+comment2.target=void\ findCosts()
+comment3.target=void\ output()
+numComments=4

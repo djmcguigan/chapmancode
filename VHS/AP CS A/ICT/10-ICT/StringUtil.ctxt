@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=void\ replaceAll(String)
+comment1.params=str\ toRemove\ replaceWith
+comment1.target=String\ convert(String,\ String,\ String)
+comment10.params=word\ pos
+comment10.target=int\ findFirstVowel(String,\ int)
+comment11.params=word
+comment11.target=boolean\ startsWithCapital(String)
+comment2.params=str\ remove
+comment2.target=String\ shortHand(String,\ String)
+comment3.params=str
+comment3.target=String\ reverse(String)
+comment4.params=str1
+comment4.target=boolean\ palindrome(String)
+comment5.params=str\ pos
+comment5.target=String\ noSymbols(String,\ int)
+comment6.params=str2
+comment6.target=String\ pigLatinator(String)
+comment7.params=word
+comment7.target=String\ latinate(String)
+comment8.params=word\ pos
+comment8.target=boolean\ hasNoVowels(String,\ int)
+comment9.params=word
+comment9.target=boolean\ startsWithVowel(String)
+numComments=12

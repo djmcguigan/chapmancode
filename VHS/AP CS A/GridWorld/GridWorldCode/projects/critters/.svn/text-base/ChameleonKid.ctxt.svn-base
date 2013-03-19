@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArrayList<Actor>\ getActors()
+comment1.params=actors
+comment1.target=void\ processActors(ArrayList<Actor>)
+comment2.params=directions
+comment2.target=ArrayList<Location>\ getLocationsInDirections(int[])
+numComments=3

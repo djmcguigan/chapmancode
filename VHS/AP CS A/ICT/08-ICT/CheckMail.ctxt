@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckMail()
+comment1.params=dim1\ dim2\ dim3\ weight
+comment1.target=CheckMail(double,\ double,\ double,\ double)
+comment2.target=void\ input()
+comment3.target=void\ findLongest()
+comment4.target=double\ calcGirth()
+comment5.target=void\ output()
+numComments=6

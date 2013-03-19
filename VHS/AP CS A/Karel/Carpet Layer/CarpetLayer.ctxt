@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=st\ ave\ dir\ beeps
+comment0.target=CarpetLayer(int,\ int,\ Direction,\ int)
+comment1.target=void\ moveTo()
+comment2.target=void\ checkRoom()
+comment3.target=void\ moveLeft()
+numComments=4

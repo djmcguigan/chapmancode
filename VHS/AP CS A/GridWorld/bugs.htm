@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>GridWorld</title>
+
+    <script src="../checksubmit.js" type="text/javascript"></script>
+  </head>
+
+  <body onload="load(document.feedback)">
+    <h1>GridWorld Framework Code Errata and Changes</h1>
+
+    <p>This page lists errata and changes in the code for the GridWorld
+    framework code. For errata in the narrative, please see <a
+    href="http://lauriewhite.org/AP/">http://lauriewhite.org/AP/</a>. The
+    latest snapshot of the GridWorld framework code is available at <a
+    href="http://horstmann.com/gridworld/GridWorldCode.zip">http://horstmann.com/gridworld/GridWorldCode.zip</a>.
+    Note that this code is more up-to-date than the code at the College Board
+    site, so you should check it first.</p>
+
+    <p>The following issues have been addressed in version 0.97</p>
+
+    <ul>
+      <li>Postconditions have been added to methods of the <tt>Critter</tt>
+      class.</li>
+    </ul>
+
+    <p>If you have errata or suggestions for improvements concerning the
+    GridWorld framework code, please report them using the form below:</p>
+
+    <form action="/cgi-bin/feedback.pl" method="post" name="feedback"
+          onsubmit="return checksubmit(document.feedback)">
+      <p>
+        <input name="subject" type="hidden" value="GridWorld" />
+
+        <input name="recipient" type="hidden" value="11" />
+      </p>
+
+      <p>Your name: <br /> <input name="Name" size="48"
+      type="text" /><br />Your email address: <br /> <input name="email"
+      size="48" type="text" /></p>
+
+      <p>Your comment about the GridWorld implementation:
+<br/><textarea
+      cols="60" name="Problem" rows="8">&nbsp; </textarea>
+</p>
+
+      <p>To protect against spam robots, please answer this simple math
+      problem:<br /> <input name="arg1" readonly="readonly" size="2" /> *
+      <input name="arg2" readonly="readonly" size="2" /> = <input
+      name="res" /></p>
+
+      <p>
+        <input type="submit" value="Submit" />
+      </p>
+    </form>
+  </body>
+</html>

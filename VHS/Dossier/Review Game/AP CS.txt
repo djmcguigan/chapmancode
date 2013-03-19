@@ -1,0 +1,64 @@
+Name a data structure with a fixed length
+Array
+what data structure removes the last thing added?
+stack
+Define syntax
+rules that govern a language
+Instantiate an array that will contain Strings
+String[]
+What is the variable type that stores Ture/False options?
+boolean
+What variable type stores integer objects?
+int
+What variable type stores decimal numbers?
+double
+what would be returned by 6 % 4?
+2
+Convert 255 to hexidecimal.
+FF
+What is 10011001 in decimal?
+153
+What is the most inefficient search algorithm?
+bubble sort
+which searching algorithm uses recursion?
+Merge Sort
+What is it called when a method calls itself in the code?
+recursion
+What is IB collaboration?
+cheating
+What line of code returns a random number?
+Math.random()
+True or False: Is "Object bob = new String();" a correct initialization?
+true
+What is Mr. Jenkins' primary class in WoW?
+Rogue
+Can an abstract class be instantiated?
+no
+True or False: Arraylists can store ints.
+false
+What method allows you to find the length of an arraylist?
+size()
+How do we count nodes?
+very carefully
+What kind of loop is this: ____(int n = 0; n < 3; n++)
+for loop
+What does Karel put down on the grid?
+beepers
+What line of code do you put down at end of Karel programs?
+turnOff()
+h
+fajiads
+jfsdkla
+jfdklasf
+jfdlasj
+\jfdklasj
+jfdklsajf
+fdsjklafja
+jhfldasjf
+jhflsdajf
+
+will this work
+i think so
+fhsdala
+extra spaces?!
+NOOO

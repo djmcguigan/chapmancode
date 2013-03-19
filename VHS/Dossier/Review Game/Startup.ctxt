@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Startup()
+comment0.text=\nConstructor\n\n
+comment1.params=event
+comment1.target=void\ itemStateChanged(ItemEvent)
+comment1.text=\n\n@param\ event\ the\ occurance\ that\ will\ trigger\ the\ method\n@return\ \n\n
+comment2.params=args
+comment2.target=void\ main(String[])
+comment2.text=\ncreates\ instantiation\ when\ called\n\n@param\ args\ array\ of\ arguments\n@return\n\n
+numComments=3

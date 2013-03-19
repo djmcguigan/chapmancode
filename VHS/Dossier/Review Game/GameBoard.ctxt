@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=gameTopic\ fileName
+comment0.target=GameBoard(String,\ String)
+comment1.params=num
+comment1.target=boolean\ contains(Integer)
+comment1.text=\nchecks\ to\ see\ if\ the\ number\ has\ been\ used\n\n@param\ num\ the\ generated\ random\ integer\n@return\ true\ if\ contained\n@return\ false\ if\ not\ contained\n\n
+comment2.target=int\ getQuestionValue()
+comment2.text=\ngets\ the\ point\ value\ of\ the\ question\n\n@param\n@return\ value\ of\ the\ question\n\n
+comment3.params=newScore
+comment3.target=void\ updateScore(int)
+comment3.text=\nupdates\ score\n\n@param\ newScore\ the\ new\ score\n@return\n\n
+comment4.target=boolean\ gameOver()
+comment4.text=\nchecks\ to\ see\ if\ game\ has\ been\ completed\n\n@param\n@return\ true\ game\ completed\n@return\ false\ game\ incomplete\n\n
+comment5.target=int\ returnRandom()
+comment5.text=\nreturns\ a\ random\ integer\ value\n\n@param\n@return\ random\ int\ to\ choose\ question\n\n
+numComments=6

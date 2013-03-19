@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Taxes()
+comment1.params=hours\ rate
+comment1.target=Taxes(double,\ double)
+comment10.target=double\ getStateTax()
+comment11.target=double\ getHoursWorked()
+comment12.target=double\ getHourlyRate()
+comment13.target=double\ getFEDTAX()
+comment14.target=double\ getFICA()
+comment15.target=double\ getSTATETAX()
+comment2.target=double\ calcGrossPay()
+comment3.target=double\ calcFedTax()
+comment4.target=double\ calcFicaTax()
+comment5.target=double\ calcStateTax()
+comment6.target=double\ calcNetPay()
+comment7.target=double\ getGrossPay()
+comment8.target=double\ getFedTax()
+comment9.target=double\ getFicaTax()
+numComments=16

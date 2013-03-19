@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RegularPolygon()
+comment1.params=numSides\ sideLength
+comment1.target=RegularPolygon(int,\ double)
+comment10.target=double\ getr()
+comment2.target=void\ calcr()
+comment3.target=void\ calcR()
+comment4.target=double\ vertexAngle()
+comment5.target=double\ perimeter()
+comment6.target=double\ area()
+comment7.target=double\ getNumSides()
+comment8.target=double\ getSideLength()
+comment9.target=double\ getR()
+numComments=11

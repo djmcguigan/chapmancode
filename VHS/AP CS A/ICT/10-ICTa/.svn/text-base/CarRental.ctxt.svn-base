@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CarRental()
+comment1.target=void\ input()
+comment2.target=void\ findNumbers()
+comment3.target=String\ findLetter()
+comment4.target=void\ output()
+numComments=5

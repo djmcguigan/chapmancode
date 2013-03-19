@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KTour1()
+comment1.target=void\ moveAvailable()
+comment2.target=int\ randNum()
+comment3.params=randomNum
+comment3.target=void\ move(int)
+comment4.params=moveN
+comment4.target=boolean\ canMove(int)
+comment5.params=arr\ num
+comment5.target=boolean\ alreadyCalled(ArrayList<Integer>,\ int)
+comment6.target=int\ returnCount()
+comment7.target=void\ display()
+comment8.params=args
+comment8.target=void\ main(String[])
+numComments=9

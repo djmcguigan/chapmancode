@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Object\ getFirst()
+comment1.target=Object\ getLast()
+comment10.target=void\ printBackwards()
+comment11.params=node\ num
+comment11.target=void\ printBackwards(DListNode,\ int)
+comment12.target=String\ toString()
+comment12.text=\nReturns\ a\ string\ representation\ of\ this\ list.\ The\ string\nrepresentation\ consists\ of\ the\ list's\ elements\ in\ order,\nenclosed\ in\ square\ brackets\ ("[]").\ Adjacent\ elements\ are\nseparated\ by\ the\ characters\ ",\ "\ (comma\ and\ space).\n\n@return\ \ \ \ string\ representation\ of\ this\ list\n\n
+comment2.target=int\ getSize()
+comment2.text=\nInserts\ the\ given\ element\ at\ the\ beginning\ of\ this\ list.\n\n@param\ \ value\ \ the\ element\ to\ be\ inserted\ at\ the\ beginning\ of\ this\ list.\n\n
+comment3.params=list
+comment3.target=void\ loadData(DoublyLinkedList)
+comment4.params=item
+comment4.target=void\ insert(Item)
+comment5.params=obj
+comment5.target=int\ compareTo(Object)
+comment6.params=it
+comment6.target=DListNode\ find(Item)
+comment7.params=item
+comment7.target=boolean\ remove(Item)
+comment8.target=void\ clear()
+comment9.target=void\ printList()
+numComments=13

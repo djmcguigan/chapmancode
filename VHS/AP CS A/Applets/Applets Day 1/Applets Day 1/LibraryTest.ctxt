@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.target=void\ startUp()
+comment2.params=g
+comment2.target=void\ paint(Graphics)
+comment3.params=hs
+comment3.target=void\ hotSpotEvent(HotSpot)
+comment4.params=file
+comment4.target=Image\ loadImage(String)
+comment5.params=file
+comment5.target=AudioClip\ loadAudio(String)
+numComments=6

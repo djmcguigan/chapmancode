@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Image\ loadImage(String)
+comment1.params=fileName
+comment1.target=AudioClip\ loadAudio(String)
+comment2.target=void\ startUp()
+comment3.target=void\ repaint()
+numComments=4

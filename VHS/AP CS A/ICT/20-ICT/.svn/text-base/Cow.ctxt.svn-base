@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=type\ sound
+comment0.target=Cow(String,\ String)
+comment1.target=String\ getSound()
+comment2.target=String\ getType()
+numComments=3
